@@ -8,6 +8,9 @@ namespace Cwiecznia1
         {
             Console.WriteLine("Hello World!");
             Console.Write("Ty krasawec");
+
+            Console.Write("Ty krasawec")
+
         }
     }
 }
